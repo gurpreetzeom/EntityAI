@@ -1,0 +1,5 @@
+/workspace/app/src/main/java/com/entity/ai/MainActivity.kt
+/workspace/app/src/main/java/com/entity/ai/MainViewModel.kt
+/workspace/app/src/main/java/com/entity/ai/TestActivity.kt
+/workspace/app/src/main/java/com/entity/ai/AIProcessor.kt
+/workspace/app/src/main/java/com/entity/ai/CloudSyncService.kt
